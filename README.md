@@ -17,8 +17,7 @@
 - ```private void editRecord()``` - редактирование записи БД
 - ```private void createBackup()``` - создание backup-файла БД
 - ```private void loadBackup()``` - восстановление БД из backup-файла
-- ```private void importToExcel()``` - импорт БД в файл формата .xlsx
-## Описание функциональности 
+- ```private void importToExcel()``` - импорт БД в файл формата .xlsx 
 ## Анализ сложности реализованных алгоритмов
 Операция | Сложность | Принцип работы
 --- | --- | ---
